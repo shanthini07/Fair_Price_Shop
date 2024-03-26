@@ -1,0 +1,14 @@
+
+[{
+    "name":"Rice (Pacha Arisi)",
+    "quantity":[10,20,25],
+    "price":20
+},{
+    "name":"Rice (Pulungal Arisi)",
+    "quantity":[5,10,15,20],
+    "price":30
+},{
+    "name":"Sugar (Sarkarai)",
+    "quantity":[5,10],
+    "price":50
+}]
